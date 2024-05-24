@@ -1,0 +1,186 @@
+body{
+    background: url( bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left img{
+    width: 300px;
+    margin: 30px;
+}
+.right h1{
+    right: 1em;
+    top: 0;
+    font-size:100px;
+}
+.right h2{
+    font-size: 50px;
+    right: 6em;
+        top:8rem;
+}
+.right p{
+    font-size: 25px;
+    width: 600px;
+    right: 8em;
+    top: 12rem;
+}
+.hr1{
+        
+    margin-top: 81px;
+     margin-left: 80px;
+    margin-right: 80px;
+}
+.email h4{
+    font-size: 23px;
+    left: 17em;
+    top: 10px;
+   
+}
+.number h4{
+    font-size: 23px;
+    right: 17em;
+    top: 10px;
+           
+
+}
+.gap h4{
+    font-size: 23px;
+     right: 31em;
+    top: 10px;
+    
+   }
+   .hr2{
+        
+    margin-top: 60px;
+    margin-left: 80px;
+    margin-right: 80px;
+
+ }
+ .contact-1 h3{
+    margin-left: 80px;
+    margin-top: 50px;
+    font-size: 24px;
+} 
+.hr3{
+        
+    margin-top: 4px;
+    margin-left: 80px;
+    margin-right: 70em;
+}
+.body img{
+    width: 50px;
+}
+.img-margin-l-t{
+    margin-left: 80px;
+    margin-top: 6px;
+}
+.bemail img{
+    margin-left: 80px;
+}
+.body-p-feature{
+    position: absolute;
+   left: 160px;
+   color: white;
+   font-size: 18px;
+}
+.bemail p{
+    top: 50px ;
+}
+.bnumber p{
+    top: 104px;
+}
+.adderss p{
+    top: 164px;
+}
+.git a{
+    top: 223px;
+    text-decoration: none;
+}
+.courses h3{
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 24px;
+   }
+   .hr4{
+    margin-top: 4px;
+    margin-left: 80px;
+    margin-right: 70em;
+   }
+   .courses ul li{
+    margin-left: 99px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+.skills h3{
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 24px;
+}
+.hr5{
+    margin-top: 4px;
+    margin-left: 80px;
+    margin-right: 70em;
+
+}
+.skills ul li{
+    margin-left: 99px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+}
+.background{
+    right: 11em;
+    top: 0;
+}
+.background h3{
+    font-size: 24px;
+}
+.background p{
+    font-size: 25px;
+}
+.work{
+    right: 553px;
+    top: 163px;
+}
+.work h3{
+    font-size: 24px; 
+}
+.work p{
+    font-size: 25px;
+}
+.Project{
+    right:559px;
+    top: 303px;
+}
+.Project h3{
+    font-size: 24px;
+}
+.Project ul li {
+    margin-left: 27px;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    list-style: none;
+}
+.Project a{
+    color: white;
+    text-decoration: none;
+}
+.education{
+    right:454px;
+    top: 600px;
+   }
+   .education h3{
+    font-size: 24px;
+}
+.education h4{
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+

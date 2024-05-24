@@ -1,1 +1,0 @@
-# rishikartikraja_profile
